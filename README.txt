@@ -15,6 +15,8 @@ O projeto também é utilizado como **portfólio pessoal** e **estudo livre**, d
 
 ## Tecnologias Utilizadas
 - Java
+- Java Derby
+- Java Swing
 
 ## Como executar
 1. Certifique-se de ter o Java instalado
